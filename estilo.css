@@ -1,0 +1,58 @@
+body{
+  margin: 50px;
+}
+html {
+  height: 600%;
+}
+
+body {
+  background-image: linear-gradient(to bottom right, #33475b, #0033CC, #FF77CC, rgb(255, 122, 89));
+}
+
+
+li {
+  color: white;
+}
+
+h2 {
+  color: white;
+}
+
+h1 {
+  color: white;
+}
+
+a {
+  color: white;
+}
+
+#carouselExampleIndicators {
+  width: 600px;
+}
+
+#titulo {
+  display: flex;
+  justify-content: center;
+}
+
+#carrusel {
+  display: flex;
+  justify-content: center;
+}
+
+#link1{
+  display: flex;
+  justify-content: center;
+}
+#link2{
+  display: flex;
+  justify-content: center;
+}
+#link3{
+  display: flex;
+  justify-content: center;
+}
+#formulario{
+  display: flex;
+  justify-content: center;
+}
